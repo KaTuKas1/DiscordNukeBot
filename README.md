@@ -8,7 +8,8 @@ Tutorial:
 2 type !help or !nuke .
 
 About:
-Created with PyCharm
+Created with PyCharm.
+
 Something doesn't work DM KaTukas#2022.
 
 Invite Link
