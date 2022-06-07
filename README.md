@@ -3,11 +3,11 @@
 Discord nuke bot online 24/7
 You don't need to download anything !!
 
-Tutorial
+Tutorial:
 1 invite bot
 2 type !help or !nuke 
 
-About
+About:
 Created with PyCharm
 Something doesn't work DM KaTukas#2022
 
