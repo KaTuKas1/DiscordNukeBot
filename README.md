@@ -1,5 +1,5 @@
 # DiscordNukeBot
-Discord nuke bot 
+
 Discord nuke bot online 24/7
 You don't need to download anything !!
 
