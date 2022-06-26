@@ -16,6 +16,6 @@ Created with PyCharm.
 
 
 Invite Link
-https://discord.com/api/oauth2/authorize?client_id=983075259823566899&permissions=8&scope=bot
+https://discord.com/api/oauth2/authorize?client_id=980932872590475314&permissions=8&scope=bot
 
 Bot Stats:Online
