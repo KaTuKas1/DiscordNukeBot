@@ -30,6 +30,7 @@ bot bio A global text-based currency game right in your Discord server!
 gamble all your money away, and SO much more! 
 
 Bot photo
+
  ![image](https://user-images.githubusercontent.com/107064155/176946418-f124a499-d8db-4ce0-9b19-83a11742db47.png)
 
 
