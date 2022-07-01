@@ -5,10 +5,9 @@ You don't need to download anything !!.
 
 Tutorial:
 How to nuke? 
-If You Want To Nuke The Server Add The Bot . Then If You Have A Permission "Administrator" And  "Use Application Commands" Then Type !nuke And Server Gets Nuked! if something doesn't work DM  KaTukas#2022  And The Anonymous group
+If You Want To Nuke The Server Add The Bot . Then If You Have A Permission "Administrator" And  "Use Application Commands" Then Type !nuke And Server Gets Nuked! if something doesn't work DM  KaTukas#2500 And The Nuke group
 
-Anonymous group https://discord.gg/TNtWk9dCxm
-Anonymous Bots https://discord.gg/PB4e754qGX
+Nuke group https://discord.gg/TNtWk9dCxm
 
 
 About:
