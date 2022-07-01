@@ -29,7 +29,7 @@ Created with PyCharm.
 How nuke bot looks Name:Dank memer
 
 
-Bot photo
+nuke Bot photo
 
  ![image](https://user-images.githubusercontent.com/107064155/176946418-f124a499-d8db-4ce0-9b19-83a11742db47.png)
 
