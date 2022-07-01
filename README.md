@@ -23,6 +23,7 @@ Nuke group https://discord.gg/katukas
 About:
 Created with PyCharm.
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
 How bot looks Name:Dank memer
 
 bot bio A global text-based currency game right in your Discord server!
