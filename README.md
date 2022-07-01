@@ -1,5 +1,8 @@
 # DiscordNukeBot
 
+![OIP (2)](https://user-images.githubusercontent.com/107064155/176945300-7d3a9aaa-ab8b-45f6-bb59-05fe10b10773.jpg)
+
+
 Discord nuke bot online 24/7
 You don't need to download anything !!.
 
@@ -16,5 +19,7 @@ Created with PyCharm.
 
 Invite Link
 https://discord.com/api/oauth2/authorize?client_id=980932872590475314&permissions=8&scope=bot
+
+video tutorial https://youtu.be/bau8HQjzigA
 
 Bot Stats:Online
