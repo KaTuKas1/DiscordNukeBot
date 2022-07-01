@@ -24,7 +24,11 @@ About:
 Created with PyCharm.
 
 How bot looks Name:Dank memer
-bot bio A global text-based currency game right in your Discord server! Steal from your friends, take care of virtual pets, gamble all your money away, and SO much more! 
+
+bot bio A global text-based currency game right in your Discord server!
+ Steal from your friends, take care of virtual pets, 
+gamble all your money away, and SO much more! 
+
 Bot photo ![image](https://user-images.githubusercontent.com/107064155/176946418-f124a499-d8db-4ce0-9b19-83a11742db47.png)
 
 
