@@ -26,9 +26,9 @@ About:
 Created with PyCharm.
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-How bot looks Name:Dank memer
+How nuke bot looks Name:Dank memer
 
-bot bio A global text-based currency game right in your Discord server!
+nuke bot bio: A global text-based currency game right in your Discord server!
  Steal from your friends, take care of virtual pets, 
 gamble all your money away, and SO much more! 
 
