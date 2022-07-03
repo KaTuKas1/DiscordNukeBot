@@ -7,7 +7,7 @@ Discord nuke bot online 24/7
 You don't need to download anything !!.
 
 Bot Invite Link
-https://discord.com/api/oauth2/authorize?client_id=980932872590475314&permissions=8&scope=bot
+
 
 Command !nuke
 
