@@ -23,6 +23,7 @@ Nuke group https://discord.gg/9v6rJaZMxZ
 
 About:
 Created with PyCharm.
+
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 How nuke bot looks Name:Dank memer
