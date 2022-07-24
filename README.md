@@ -38,5 +38,5 @@ nuke Bot photo
 
 Bot Stats:Offline
 
-Creator KaTukas#2022
+Creator KaTukas.#4899
 
