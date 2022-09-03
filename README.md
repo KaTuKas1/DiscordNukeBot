@@ -1,43 +1,14 @@
 # DiscordNukeBot
 
-![OIP (2)](https://user-images.githubusercontent.com/107064155/176945300-7d3a9aaa-ab8b-45f6-bb59-05fe10b10773.jpg)
+if bot offline wait 3-5 m
 
+Invite Link : https://discord.com/api/oauth2/authorize?client_id=1014294117464948877&permissions=8&scope=bot
 
-Discord nuke bot online 24/7
-You don't need to download anything !!.
+![image](https://user-images.githubusercontent.com/107064155/188280413-ec90135a-b36d-477f-94cf-a9f0ee0d18a7.png)
 
+tutorial : add bot to server pick command type and you ready to break a server .
 
-Bot Invite Link https://discord.com/api/oauth2/authorize?client_id=1011410455497015307&permissions=8&scope=bot
+why you need to wait 3-5 m ?
+When you raid server sometimes bot gets pi ban you need to wait until bot changes ip 
 
-Command !nuke
-
-Tutorial:
-How to nuke? 
-If You Want To Nuke The Server Add The Bot . Then If You Have A Permission "Administrator" And  "Use Application Commands" Then Type !nuke And Server Gets Nuked! if something doesn't work DM  KaTukas#2500 And The Nuke group
-
-video tutorial https://youtu.be/bau8HQjzigA
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-Nuke group https://discord.gg/T8ZzaX7R9W
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-About:
-Created with PyCharm.
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-How nuke bot looks Name:Dank memer
-
-
-nuke Bot photo
-
- ![image](https://user-images.githubusercontent.com/107064155/176946418-f124a499-d8db-4ce0-9b19-83a11742db47.png)
-
-
-
-Bot Stats:Online
-
-
-Creator KaTukas.#4899
-
+![image](https://user-images.githubusercontent.com/107064155/188280547-099a6c87-86ff-4e41-80d9-bbd78f0f1644.png)
