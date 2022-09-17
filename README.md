@@ -2,4 +2,4 @@
 
 if bot offline wait 3-5 m
 
-Invite Link : https://discord.com/api/oauth2/authorize?client_id=1020307214109519963&permissions=8&scope=bot
+Invite Link :https://discord.com/api/oauth2/authorize?client_id=1020621944795709481&permissions=8&scope=bot
