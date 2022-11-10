@@ -1,6 +1,6 @@
 # DiscordNukeBot
 
-V2 Invite Link : https://discord.com/api/oauth2/authorize?client_id=1038865106005659770&permissions=8&scope=bot
+V2 Invite Link : https://discord.com/api/oauth2/authorize?client_id=1040372938697871370&permissions=8&scope=bot
 
 ![image](https://user-images.githubusercontent.com/107064155/192379730-10a08b4e-15b2-4f7e-9e05-e4127c205a23.png)
 
@@ -12,5 +12,5 @@ V2 Invite Link : https://discord.com/api/oauth2/authorize?client_id=103886510600
 
 
 
-V1 if bot flagged use this link: https://discord.com/api/oauth2/authorize?client_id=1038248340233662484&permissions=8&scope=bot
+V1 if bot flagged use this link: https://discord.com/api/oauth2/authorize?client_id=1040375715180331090&permissions=8&scope=bot
 about this v1 bot use this bot when v2 is flagged use !nuke for this bot
