@@ -1,6 +1,6 @@
 # DiscordNukeBot
 
-V2 Invite Link : https://discord.com/api/oauth2/authorize?client_id=1046878012634824734&permissions=8&scope=bot
+V2 Invite Link : https://discord.com/api/oauth2/authorize?client_id=1048757448128868435&permissions=8&scope=bo
 
 
 
