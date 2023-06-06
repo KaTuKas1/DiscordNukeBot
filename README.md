@@ -1,1 +1,2 @@
-Server : https://discord.gg/hDEAANgsCY join for bots
+Server : https://discord.gg/JtbQvh8Csu join for bots
+
