@@ -1,2 +1,2 @@
-Server : https://discord.gg/JtbQvh8Csu join for bots
+Server : https://discord.gg/darkkatukas join for bots
 
